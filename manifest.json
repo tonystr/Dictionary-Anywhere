@@ -1,11 +1,11 @@
 {
-  "author": "Suraj Jain / TonyStr",
+  "author": "TonyStr / Suraj Jain",
 
   "manifest_version": 2,
   "name": "Dictionary Anywhere Modified",
-  "version": "1.1.0",
+  "version": "1.2.0",
 
-  "description": "View definitions easily as you browse the web. Double-click any word to view its definition in a small pop-up bubble.",
+  "description": "View definitions easily as you browse the web. Double-click any word to view its definition in a small pop-up bubble. Modified dark theme by TonyStr",
 
   "icons": {
     "48": "icons/Dictionary-48.png",
